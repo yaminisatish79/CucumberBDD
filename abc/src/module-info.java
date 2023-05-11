@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author yamin
- *
- */
-module abc {
-}

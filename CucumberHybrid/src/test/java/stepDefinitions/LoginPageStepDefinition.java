@@ -13,7 +13,7 @@ public class LoginPageStepDefinition {
 
 	@Then("User navigates to the Swag labs login page")
 	public void user_navigates_to_the_swag_labs_login_page() {
-	    
+	   System.out.println("This call is from User navigates to the Swag labs login page"); 
 	}
 
 	@Given("User is on the Swag labs login page")

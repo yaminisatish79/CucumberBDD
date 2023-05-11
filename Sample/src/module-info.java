@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author yamin
+ *
+ */
+module Sample {
+}

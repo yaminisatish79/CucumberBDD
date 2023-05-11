@@ -8,7 +8,7 @@ public class LoginPageStepDefinition {
 
 	@Given("User enters the swag labs url")
 	public void user_enters_the_swag_labs_url() {
-	 
+	 System.out.println("This call is from user_enters_the_swag_labs_url ");
 	}
 
 	@Then("User navigates to the Swag labs login page")

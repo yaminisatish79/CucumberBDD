@@ -30,6 +30,9 @@ public class DriverFactory {
 			tlDriver.set(new FirefoxDriver());
 		}
 		
+		
+		getDriver().manage().deleteAllCookies();
+		getDriver().manage().window().maximize();
 		return getDriver();
 	}
 	
